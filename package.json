@@ -1,0 +1,11 @@
+{
+  "name": "vocollab",
+  "version": "0.0.0",
+  "description": "Video Conferencing with transcribed timelines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dyllan To",
+  "license": "ISC"
+}
